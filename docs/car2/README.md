@@ -20,7 +20,7 @@ Electronic board: paper phenol board made with milling machine <br>
 eagle date: arduino_motor_1 <br>
 <img src="https://raw.githubusercontent.com/ohwada/Fab_ModelCar/master/docs/car2/arduino_motor_1_sch.png" width="200" />
 
-Electronic parts: made with milling machine
+Electronic parts: 
 * CPU: ATMEGA328P (Arduino Uno compatible)
 * Motor driver: TA7291P
 * Bluetooth: Microchip RN-42
