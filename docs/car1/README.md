@@ -12,13 +12,13 @@ ai data: frame-geared-motor-1.ai <br>
 <img src="https://raw.githubusercontent.com/ohwada/Fab_ModelCar/master/docs/car1/frame-geared-motor-1.png" width="200" />
 
 Motor: geared motor<br>
-[HP-08-13047-8](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0F4C)
+[HP-08-13047-8](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0F4C) <br>
 <img src="https://raw.githubusercontent.com/ohwada/Fab_ModelCar/master/docs/car1/geared_motor.png" width="150" />
 
-Front wheel: [Ball caster](http://www.amazon.co.jp/dp/B00GQNC7JC/)
+Front wheel: [Ball caster](http://www.amazon.co.jp/dp/B00GQNC7JC/) <br>
 <img src="https://raw.githubusercontent.com/ohwada/Fab_ModelCar/master/docs/car1/ball_caster.png" width="150" />
 
-CPU board:  [Arduino UNO](https://www.arduino.cc/en/Main/arduinoBoardUno)
+CPU board:  [Arduino UNO](https://www.arduino.cc/en/Main/arduinoBoardUno) <br>
 <img src="https://raw.githubusercontent.com/ohwada/Fab_ModelCar/master/docs/car1/arduino_uno.png" width="150" />
 
 Shield board: paper phenol board made with milling machine <br>
