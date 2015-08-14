@@ -15,6 +15,7 @@ Motor: Tamiya double gearbox kit <br>
 <img src="https://raw.githubusercontent.com/ohwada/Fab_ModelCar/master/docs/car2/tamiya_gearbox.png" width="150" />
 
 Front wheel: [Ball caster](http://www.amazon.co.jp/dp/B00GQNC7JC/)
+<img src="https://raw.githubusercontent.com/ohwada/Fab_ModelCar/master/docs/car1/ball_caster.png" width="150" />
 
 Electronic board: paper phenol board made with milling machine <br>
 eagle date: arduino_motor_1 <br>
